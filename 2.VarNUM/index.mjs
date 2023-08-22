@@ -20,8 +20,8 @@ let result = num1 + num2
 
 alert(result);
 
-// !@#$%& nOt Charter
-
+// !@#$%& nOt special Charter allowed 
+ 
 // let alert = ("jaljdsaklj")
 
 
