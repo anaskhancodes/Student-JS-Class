@@ -13,12 +13,16 @@
 
 let num1 = 20;
 let num2 = 30;
+let _name = "30"
+let MYNmae;
+let myConsole;
+// console.log(_name)
 
 // console.log(num1 + num2);
 
 let result = num1 + num2
 
-alert(result);
+// alert(result);
 
 // !@#$%& nOt special Charter allowed 
  
